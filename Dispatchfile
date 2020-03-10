@@ -1,0 +1,4 @@
+#!starlark
+
+def amethod():
+    return "hello"
